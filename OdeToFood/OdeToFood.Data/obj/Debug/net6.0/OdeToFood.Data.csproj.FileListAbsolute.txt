@@ -1,0 +1,15 @@
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.deps.json
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.dll
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Data.pdb
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Core.dll
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\bin\Debug\net6.0\OdeToFood.Core.pdb
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.csproj.AssemblyReference.cache
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.AssemblyInfoInputs.cache
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.AssemblyInfo.cs
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.csproj.CoreCompileInputs.cache
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.csproj.CopyComplete
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.dll
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\refint\OdeToFood.Data.dll
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\OdeToFood.Data.pdb
+C:\Users\sahmad1\Desktop\pluralsight\ASP DOTNET Training\OdeToFood\OdeToFood\OdeToFood.Data\obj\Debug\net6.0\ref\OdeToFood.Data.dll
